@@ -5,7 +5,11 @@ class Program
 {
    static void Mains()
    {
-       Console.Write("hello santoshhhhhhhhhhhhhh");
-        
+       Console.Write("hello santoshhhhhhhhhhhhhh"); 
    }
+   static void PrintSelva()
+   {
+       Console.Write("hello Selva"); 
+   }
+
 }

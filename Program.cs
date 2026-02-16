@@ -2,13 +2,9 @@
 
 class Program
 {
-
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello raveena");
-        Calculate();
-    }
-
-    
+   static void Mains()
+   {
+       Console.Write("hello raveenaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+        
+   }
 }
-

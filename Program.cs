@@ -4,7 +4,7 @@ class Program
 {
    static void Mains()
    {
-       Console.Write("hello raveenaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+       Console.Write("merged");
         
    }
 }

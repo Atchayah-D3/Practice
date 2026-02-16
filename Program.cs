@@ -1,11 +1,15 @@
 ﻿using System;
-using System.IO;
 
 class Program
 {
-   static void Mains()
-   {
-       Console.Write("hello");
-        
-   }
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello Team");
+        Calculate();
+    }
+
+    static void Calculate()
+    {
+        Console.WriteLine("Calculation running...");
+    }
 }

@@ -5,7 +5,7 @@ class Program
 {
    static void Mains()
    {
-       Console.Write("hey ");
+       Console.Write("Changes from main");
         
    }
 }

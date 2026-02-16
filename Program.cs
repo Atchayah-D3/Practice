@@ -5,7 +5,7 @@ class Program
    static void PrintSelva()
    {
        Console.Write("Changes from demo");
-        Console.Write("Git..");
+        Console.Write("Git learning..");
    }
 
 }
